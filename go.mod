@@ -1,4 +1,4 @@
-module dev-gitlab.wanxingrowth.com/wanxin-go-micro/connection.git
+module github.com/sunshibao/connection.git
 
 go 1.13
 
